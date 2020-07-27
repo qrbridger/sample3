@@ -17,3 +17,7 @@ function openMe(){
       //Option 2: Change the class
    		 // x.className="open";
 	}
+function sendEmail() 
+{
+    window.location = "mailto:kaushal.singh007@gmail.com";
+}
